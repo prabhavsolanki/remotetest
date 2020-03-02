@@ -45,7 +45,7 @@ public class Ans4 {
 class Driver4   {
     public static void main(String[] args) {
         Ans4 ans = new Ans4();
-        ans.inputString = "Oh mama oh mama my heart and my kidney goes";
+        ans.inputString = "Oh yeah oh yeah I am fullof happiness ";
         ans.sortHashMap();
 
     }
