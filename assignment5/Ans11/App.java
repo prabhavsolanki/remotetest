@@ -15,7 +15,6 @@ public class App {
         return numbers
                 .stream()
                 .mapToInt(i -> i*2)
-                .summaryStatistics()
                 .getAverage();
     }
 
