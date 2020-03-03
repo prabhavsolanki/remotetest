@@ -1,0 +1,10 @@
+References used in the completion of this assignment:
+
+1. Gradle Fundamental | Udemy Course
+https://www.udemy.com/course/gradle-fundamentals/
+
+2. Gradle official documentation | Gradle
+https://docs.gradle.org/current/userguide/userguide.html
+
+3. gson dependency | Maven repositories
+https://mvnrepository.com/artifact/com.google.code.gson/gson

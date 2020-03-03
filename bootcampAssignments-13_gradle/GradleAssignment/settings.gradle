@@ -1,0 +1,3 @@
+rootProject.name = 'GradleAssignment'
+include 'show-date'
+

@@ -1,0 +1,49 @@
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+//Ans1 - Applying java plugin, adding new dependency along with it's repository
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile group: 'com.google.code.gson', name: 'gson', version: '2.8.6'
+}
+
+// Ans2 - Using java plugin to make a jar executable by providing an entry point class in the manifest file
+jar{
+    manifest {
+        attributes(
+                "Main-Class": 'App'
+        )
+    }
+}
+
+
+// Ans4 - Connecting the newly created show-date plugin to the application by defining its classpath
+buildscript {
+    dependencies {
+        classpath files('show-date/build/libs/show-date-1.0-SNAPSHOT.jar')
+    }
+}
+
+apply plugin: 'show-date-plugin'
+
+
+// Ans5 - Modifying the sourceSets to consider javaCode1 and javaCode2 as source code sirs instead of just java
+sourceSets{
+    main {
+        java {
+            srcDirs = ['src/main/javaCode1', 'src/main/javaCode2']
+        }
+    }
+}
+
+
+
+
