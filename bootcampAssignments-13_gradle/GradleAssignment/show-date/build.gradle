@@ -1,0 +1,9 @@
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'groovy'
+
+dependencies {
+    compile gradleApi()
+    compile localGroovy()
+}
