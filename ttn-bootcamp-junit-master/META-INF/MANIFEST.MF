@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1583213552640
+Build-Jdk: 1.8.0_242
+Built-By: prabhav
+Bundle-ManifestVersion: 2
+Bundle-Name: Mventest2
+Bundle-SymbolicName: org.example.Mventest2
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Tool: Bnd-4.1.0.201810181252
+
