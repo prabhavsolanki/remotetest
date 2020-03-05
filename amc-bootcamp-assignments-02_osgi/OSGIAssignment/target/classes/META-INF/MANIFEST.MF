@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1583409633040
+Build-Jdk: 1.8.0_242
+Built-By: syed
+Bundle-ManifestVersion: 2
+Bundle-Name: OSGIAssignment
+Bundle-SymbolicName: com.ttn.bootcamp.OSGIAssignment
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: bean;version="1.0.0",services;uses:=bean;version="1.0.0"
+Import-Package: bean,services
+Provide-Capability: osgi.service;objectClass:List<String>="services.Clas
+ sConfigurationService",osgi.service;objectClass:List<String>="services.
+ StudentClassService"
+Require-Capability: osgi.service;filter:="(objectClass=services.ClassCon
+ figurationService)";effective:=active,osgi.service;filter:="(objectClas
+ s=services.StudentClassService)";effective:=active,osgi.extender;filter
+ :="(&(osgi.extender=osgi.component)(version>=1.4.0)(!(version>=2.0.0)))
+ ",osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Service-Component: OSGI-INF/AppComponent.xml,OSGI-INF/services.impl.Clas
+ sConfigurationServiceImpl.xml,OSGI-INF/services.impl.StudentClassServic
+ eImpl.xml
+Tool: Bnd-4.1.0.201810181252
