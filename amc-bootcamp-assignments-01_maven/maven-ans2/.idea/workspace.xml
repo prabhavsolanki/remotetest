@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e81adc95-ebfc-4a3c-8d24-dd48929dbe5c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YYzm3XkP71A1yrCVV2ysMzPb3h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="maven-ans2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e81adc95-ebfc-4a3c-8d24-dd48929dbe5c" name="Default Changelist" comment="" />
+      <created>1583134470899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583134470899</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1302" height="164" key="GridCell.Tab.0.bottom" timestamp="1583135373963">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1302" height="164" key="GridCell.Tab.0.bottom/0.24.1366.744@0.24.1366.744" timestamp="1583135373963" />
+    <state width="1302" height="164" key="GridCell.Tab.0.center" timestamp="1583135373962">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1302" height="164" key="GridCell.Tab.0.center/0.24.1366.744@0.24.1366.744" timestamp="1583135373962" />
+    <state width="1302" height="164" key="GridCell.Tab.0.left" timestamp="1583135373962">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1302" height="164" key="GridCell.Tab.0.left/0.24.1366.744@0.24.1366.744" timestamp="1583135373962" />
+    <state width="1302" height="164" key="GridCell.Tab.0.right" timestamp="1583135373962">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1302" height="164" key="GridCell.Tab.0.right/0.24.1366.744@0.24.1366.744" timestamp="1583135373962" />
+    <state x="8" y="46" width="1339" height="697" key="new project wizard" timestamp="1583135370851">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="8" y="46" width="1339" height="697" key="new project wizard/0.24.1366.744@0.24.1366.744" timestamp="1583135370851" />
+  </component>
+</project>
