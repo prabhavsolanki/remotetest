@@ -1,0 +1,64 @@
+2020-03-24 00:07:45.444 INFO [holidaywork.core.services.Impl.MarketBlogImpl] ..........
+2020-03-24 00:07:45.444 INFO [holidaywork.core.services.Impl.MarketBlogImpl] MarketBlog started
+2020-03-24 00:07:45.446 INFO [holidaywork.core.services.Impl.TechBlogImpl] TechBlog started
+2020-03-24 00:07:45.447 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] Inside Blog Collector
+2020-03-24 00:07:45.447 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] === START : MARKET BLOG ===
+2020-03-24 00:07:45.447 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] Category: Marketing
+2020-03-24 00:07:45.447 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] Rank: 2
+2020-03-24 00:07:45.447 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] === END : MARKET BLOG ===
+2020-03-24 00:07:45.447 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] === START : TECH BLOG ===
+2020-03-24 00:07:45.447 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] Category: Technology
+2020-03-24 00:07:45.447 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] Rank: 1
+2020-03-24 00:07:45.447 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] === END : TECH BLOG ===
+2020-03-24 00:07:45.448 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] Sorted list of blogs: 
+2020-03-24 00:07:45.448 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] Category: Technology || Rank: 1
+2020-03-24 00:07:45.448 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] Category: Marketing || Rank: 2
+2020-03-24 00:07:45.448 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] ..........
+2020-03-24 00:33:27.095 INFO [holidaywork.core.services.Impl.MarketBlogImpl] ..........
+2020-03-24 00:33:27.096 INFO [holidaywork.core.services.Impl.MarketBlogImpl] MarketBlog started
+2020-03-24 00:33:27.097 INFO [holidaywork.core.services.Impl.TechBlogImpl] TechBlog started
+2020-03-24 00:33:27.098 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] Inside Blog Collector
+2020-03-24 00:33:27.098 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] === START : MARKET BLOG ===
+2020-03-24 00:33:27.098 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] Category: Marketing
+2020-03-24 00:33:27.098 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] Rank: 2
+2020-03-24 00:33:27.098 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] === END : MARKET BLOG ===
+2020-03-24 00:33:27.098 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] === START : TECH BLOG ===
+2020-03-24 00:33:27.098 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] Category: Technology
+2020-03-24 00:33:27.098 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] Rank: 1
+2020-03-24 00:33:27.098 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] === END : TECH BLOG ===
+2020-03-24 00:33:27.098 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] Sorted list of blogs: 
+2020-03-24 00:33:27.098 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] Category: Technology || Rank: 1
+2020-03-24 00:33:27.098 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] Category: Marketing || Rank: 2
+2020-03-24 00:33:27.098 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] ..........
+2020-03-24 00:42:10.986 INFO [holidaywork.core.services.Impl.MarketBlogImpl] ..........
+2020-03-24 00:42:10.986 INFO [holidaywork.core.services.Impl.MarketBlogImpl] MarketBlog started
+2020-03-24 00:42:10.987 INFO [holidaywork.core.services.Impl.TechBlogImpl] TechBlog started
+2020-03-24 00:42:10.987 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] Inside Blog Collector
+2020-03-24 00:42:10.987 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] === START : MARKET BLOG ===
+2020-03-24 00:42:10.987 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] Category: Marketing
+2020-03-24 00:42:10.987 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] Rank: 2
+2020-03-24 00:42:10.987 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] === END : MARKET BLOG ===
+2020-03-24 00:42:10.987 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] === START : TECH BLOG ===
+2020-03-24 00:42:10.988 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] Category: Technology
+2020-03-24 00:42:10.988 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] Rank: 1
+2020-03-24 00:42:10.988 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] === END : TECH BLOG ===
+2020-03-24 00:42:10.988 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] Sorted list of blogs: 
+2020-03-24 00:42:10.988 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] Category: Technology || Rank: 1
+2020-03-24 00:42:10.988 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] Category: Marketing || Rank: 2
+2020-03-24 00:42:10.988 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] ..........
+2020-03-24 00:42:59.819 INFO [holidaywork.core.services.Impl.MarketBlogImpl] ..........
+2020-03-24 00:42:59.819 INFO [holidaywork.core.services.Impl.MarketBlogImpl] MarketBlog started
+2020-03-24 00:42:59.820 INFO [holidaywork.core.services.Impl.TechBlogImpl] TechBlog started
+2020-03-24 00:42:59.820 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] Inside Blog Collector
+2020-03-24 00:42:59.820 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] === START : MARKET BLOG ===
+2020-03-24 00:42:59.821 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] Category: Marketing
+2020-03-24 00:42:59.821 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] Rank: 2
+2020-03-24 00:42:59.821 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] === END : MARKET BLOG ===
+2020-03-24 00:42:59.821 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] === START : TECH BLOG ===
+2020-03-24 00:42:59.821 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] Category: Technology
+2020-03-24 00:42:59.821 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] Rank: 1
+2020-03-24 00:42:59.821 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] === END : TECH BLOG ===
+2020-03-24 00:42:59.821 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] Sorted list of blogs: 
+2020-03-24 00:42:59.821 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] Category: Technology || Rank: 1
+2020-03-24 00:42:59.821 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] Category: Marketing || Rank: 2
+2020-03-24 00:42:59.821 INFO [holidaywork.core.services.Impl.BlogsCollectorImpl] ..........

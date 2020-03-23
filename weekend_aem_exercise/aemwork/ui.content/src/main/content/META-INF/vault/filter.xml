@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/holidaywork" mode="merge"/>
+    <filter root="/content/holidaywork" mode="merge"/>
+    <filter root="/content/dam/holidaywork" mode="merge"/>
+</workspaceFilter>
