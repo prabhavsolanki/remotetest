@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/DAMexercise" mode="merge"/>
+    <filter root="/content/DAMexrcise" mode="merge"/>
+    <filter root="/content/dam/DAMexrcise" mode="merge"/>
+</workspaceFilter>
